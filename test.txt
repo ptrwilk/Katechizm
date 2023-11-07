@@ -65,6 +65,22 @@ Czy w Jezusie Chrystusie są dwie wole czy też jedna wola? ; W Jezusie Chrystus
 Czy Jezus Chrystus posiadał wolną wolę? ; Tak, jednak nie mógł czynić zła gdyż jest to wadą, a nie doskonałością.
 W jaki sposób Najświętsza Maryja Panna stała się matką Jezusa Chrystusa? ; Wyłącznie za sprawą działania Ducha Świętego i Jego mocą.
 
+Czego naucza nas czwarty artykuł Wyzniania wiary: umęczon pod Ponckim Piłatem, ukrzyżowan, umarł i pogrzebion? ; Naucza nas, że Jezus dla zbawienia świata swą najdroższą Krwią, odbył mękę za czasów władzy Poncjusza Piłata w Judei, umarł na krzyżu, został z niego zdjęty i pogrzebany.
+Czy Jezus Chrystus cierpiał jako Bóg, czy jako człowiek? ; Wyłącznie jako człowiek, gdyż jako Bóg nie mógł ani cierpieć, ani umrzeć.
+Jakiego rodzaju karą była kara śmierci przez ukrzyżowanie? ; Była w tamtych czasach najsurowszą i najbardziej poniżającą karą.
+Kto skazał Jezusa Chrystusa na karę śmierci krzyżowej? ; Poncjusz Piłat, zarządca Judei, który uznał niewinność Chrystusa, lecz przestraszył się ludu jerozolimskiego i uległ jego naciskowi.
+Czy Jezus Chrystus mógł się uwolnić z rąk Poncjusza Piłąta i Żydów? ; Tak, ale wiedział iż wolą Ojca jest aby cierpiał i umarł dla naszego zbawienia, i dlatego dobrowolnie wydał się na mękę, a nawet sam wyszedł na spotkanie wrogów i pozwolił się pojmać.
+Gdzie był ukrzyżowany Jezus Chrystus? ; Na górze Kalwaria.
+Co robił Jezus Chrystus wisząc na krzyżu? ; Modlił się za swych nieprzyjaciół, swą własną Najświętszą Matkę oddał za matkę świętemu Janowi, a w jego osobie nam wszystkim, złożył swą śmierć w ofierze dla zadośćuczunienia sprawiedliwości Bożej za grzechy wszystkich ludzi.
+Czy nie byłoby wystarczające, aby jakiś Anioł zstąpił na ziemię i dokonał zadośćuczunienia za nasze grzechy? ; Nie, ponieważ zniewagi wyrządzone Bogu przez grzechy były w pewnym sensie nieskończone, a więc dla ich zadośćuczynienia niezbędna była osoba, której zasługi byłyby nieskońćzone.
+Czy dla zadoścuczynienia Bożej sprawiedliwości konieczne było, aby Jezus Chrystus był jednocześnie Bogiem i człowiekiem? ; Tak, aby móc cierpieć i umrzeć Jezus Chrystus musiał być człowiekiem, aby zaś Jego cierpienia miały nieskończoną wartość, było konieczne, aby był Bogiem.
+Dlaczego więc Pan Jezus wycierpiał tak wiele? ; Aby z nadmiarem zadośćuczynić Bożej sprawiedliości, aby najwyraźniej ukazać swoją miłość do nas, a także aby nas natchnąć największą odrazą do grzechu.
+Czy podczas śmierci Jezusa Chrystusa wydarzyło się coś wyjątkowego? ; Tak, słońce się zaćmiło, ziemia się zatrzęsłą, otworzyły się groby i zmartwychwstało wiele umarłych.
+Gdzie zostało pochowane ciało Jezusa Chrystusa? ; W nowym grobie, wykutym w skale, na wzgórzu, niedaleko miejsca, gdzie zostsał On ukrzyżowany.
+Czy po śmierci Jezusa Chrystusa Jego Boskość odzieliła sięod Jego ciała i duszy? ; Nie, tylko dusza oddzieliła się od ciała.
+Skoro Jezus Chrystus umarłdla zbawienia wszystkich ludzi, to dlaczego nie wszyscy będą zbawieni? ; Gdyż nie wszyscy chcą go uznać, nie wszyscy zachowują Jego prawo i nie wszyscy korzystają ze środków zbawienia, które nam pozostawił.
+Czy do zbawienia nie wystarcza, że Jezus Chrystus umarł za nas? ; Nie gdyż konieczne jest aby owoce Jego męki i śmierci zostały zastosowane do każdego z nas. Dokonuje się to przede wszystkim za pomocą Sakramentów, które sam Jezus Chrystus ustanowił. Skoro wielu ludzi nie przyjmuje Sakramentów, albo nie przyjmuje ich godziwie, dlatego zasługi wynikające ze śmierci Jezusa Chrystusa nie są dla nich skuteczne.
+
 
 
 
@@ -81,3 +97,5 @@ W jaki sposób Najświętsza Maryja Panna stała się matką Jezusa Chrystusa? ;
 #Pytanie: Nie rozumiem tego wyjaśnienia kompletnie 31/2
 #Pytanie: Zapytać się księdza lub znaleść gdzie w starym testamencie znajdują się te proroctwa 32/11
 #Pytanie: Co przedstawiają wymienione figury, jakie jest ich znaczenie? 33/12
+#Pytanie: Z ciekawości czy Poncjusz Piłat jest w piekle? 
+#Pytanie: Dlaczego podczas sakramentów zastosowywane są owoce męki i śmierci Jezusa? 38/19
